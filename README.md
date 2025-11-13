@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm <b>João</b> from <b>São Paulo, Brazil</b><br><br>- 🔭 I’m working as <b>Data Scientist</b> 🤖<br>- 📚 I'm currently learning <b>Amazon Web Services</b> and <b>Data Analytics</b> 🛠️<br>
+<p align="left">I'm <b>João</b> from <b>São Paulo, Brazil</b><br><br>- 🔭 I’m working with <b>Automation and Fullstack Applications Development</b> 🤖<br>- 📚 I'm currently learning <b>Project Management</b> and <b>Data Analytics & Insights</b> 🛠️<br>
 - ⚡ In my free time I usually <b>play games</b> and <b>watch TV Shows</b>! 🎮</p>
 
 ###
